@@ -62,7 +62,7 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 
 **Skills:** Predictive Analytics • Customer Analytics
 
-➡️ [View Project](YOUR_REPOSITORY_LINK)
+➡️ [View Project](https://github.com/Yvonneamg/Customer_Churn_Analysis)
 
 ---
 
