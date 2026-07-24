@@ -10,6 +10,7 @@ I have experience in credit risk underwriting and enjoy solving real-world probl
 
 - Credit Risk Analytics
 - Data Analytics
+- Sports Analystics
 - Fraud Analytics
 - Business Intelligence
 - Decision Science
