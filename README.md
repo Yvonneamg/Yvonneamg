@@ -29,16 +29,15 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 ## 🛠 Technical Skills
 
 
-![Python]
-![SQL]
-![Power BI]
-![Tableau]
-![Excel]
-![Git]
-![GitHub]
-![Machine Learning]
-![Statistics]
-![Credit Risk]
+- Python
+- SQL
+- Excel
+- Tableau
+- Power BI
+- SQLite
+- Machine Learning
+- Statistics
+- Predictive Modelling
 
 ---
 
@@ -46,27 +45,35 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 
 ### 💳 Credit Card Fraud Detection
 
-## Business Problem
+**Business Problem:** Detect fraudulent credit card transactions using anomaly detection.
 
-Banks lose millions through fraudulent transactions.
+**Tools:** Python • SQL • SQLite • Isolation Forest
 
-## Solution
+**Skills:** Fraud Analytics • Risk Analytics • Machine Learning
 
-Developed an anomaly detection model using Isolation Forest to identify suspicious transactions.
+➡️ [View Project](YOUR_REPOSITORY_LINK)
 
-## Tools
-
-Python • SQL • SQLite • Machine Learning
-
-## Skills
-
-Fraud Analytics • Risk Analytics • Feature Engineering
+---
 
 ### 📈 Customer Churn Prediction
-Predictive model using Logistic Regression with an interactive Power BI dashboard.
+**Business Problem:** Predict customers likely to leave a business.
+
+**Tools:** Python • SQL • Power BI • Logistic Regression
+
+**Skills:** Predictive Analytics • Customer Analytics
+
+➡️ [View Project](YOUR_REPOSITORY_LINK)
+
+---
 
 ### 📊 E-commerce Sales Dashboard
-SQL and Tableau dashboard analysing sales performance and customer behaviour.
+**Business Problem:** Analyze sales performance and customer behaviour.
+
+**Tools:** SQL • Tableau
+
+**Skills:** Business Intelligence • Data Visualization
+
+➡️ [View Project](YOUR_REPOSITORY_LINK)
 
 🚧 More projects coming soon:
 - Loan Default Prediction
