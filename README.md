@@ -73,7 +73,7 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 
 **Skills:** Business Intelligence • Data Visualization
 
-➡️ [View Project](YOUR_REPOSITORY_LINK)
+➡️ [View Project](https://github.com/Yvonneamg/Ecommerce_Sales_Analysis)
 
 🚧 More projects coming soon:
 - Loan Default Prediction
