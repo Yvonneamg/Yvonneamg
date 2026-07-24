@@ -1,12 +1,12 @@
 # Hi, I'm Yvonne 👋
 
-## Applied Mathematician | Credit Risk Analyst | Data Analyst
+## Applied Mathematician • Credit Risk Analyst • Data Analyst
 
-I am passionate about transforming data into actionable business insights through analytics, machine learning and visualization.
+I use mathematics, statistics and machine learning to solve business problems in credit risk, fraud detection and decision analytics.
 
 I have experience in credit risk underwriting and enjoy solving real-world problems using Python, SQL, Tableau, Power BI and statistical modelling.
 
-🎯 Currently seeking fully remote opportunities in:
+🎯 Currently seeking fully remote, hybrid or in person opportunities in:
 
 - Credit Risk Analytics
 - Data Analytics
@@ -14,27 +14,52 @@ I have experience in credit risk underwriting and enjoy solving real-world probl
 - Business Intelligence
 - Decision Science
 
----
+
+## About Me
+
+I recently completed an MSc in Applied Mathematics after working as a Credit Risk Underwriter in the fintech industry.
+
+My background combines mathematics, finance and analytics, allowing me to solve complex business problems using data.
+
+I enjoy building predictive models, creating dashboards and transforming raw data into actionable business insights.
+
+Outside work, I enjoy football analytics and exploring how data can improve sporting decisions.
 
 ## 🛠 Technical Skills
 
-- Python
-- SQL
-- Excel
-- Tableau
-- Power BI
-- Machine Learning
-- Statistics
-- Predictive Modelling
-- Credit Risk
-- Data Visualization
+
+![Python]
+![SQL]
+![Power BI]
+![Tableau]
+![Excel]
+![Git]
+![GitHub]
+![Machine Learning]
+![Statistics]
+![Credit Risk]
 
 ---
 
 ## 📂 Featured Projects
 
 ### 💳 Credit Card Fraud Detection
-Machine learning model using Isolation Forest to identify suspicious financial transactions.
+
+## Business Problem
+
+Banks lose millions through fraudulent transactions.
+
+## Solution
+
+Developed an anomaly detection model using Isolation Forest to identify suspicious transactions.
+
+## Tools
+
+Python • SQL • SQLite • Machine Learning
+
+## Skills
+
+Fraud Analytics • Risk Analytics • Feature Engineering
 
 ### 📈 Customer Churn Prediction
 Predictive model using Logistic Regression with an interactive Power BI dashboard.
