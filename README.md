@@ -51,7 +51,7 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 
 **Skills:** Fraud Analytics • Risk Analytics • Machine Learning
 
-➡️ [View Project]([https://github.com/Yvonneamg/Credit_Card_Fraud_Detection])
+➡️ [View Project](https://github.com/Yvonneamg/Credit_Card_Fraud_Detection)
 
 ---
 
