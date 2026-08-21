@@ -1,6 +1,6 @@
 # Hi, I'm Yvonne 👋
 
-## Applied Mathematician • Credit Risk Analyst • Data Analyst
+## Applied Mathematician •  Data Analyst • Credit Risk Analyst 
 
 I use mathematics, statistics and machine learning to solve business problems in credit risk, fraud detection and decision analytics.
 
