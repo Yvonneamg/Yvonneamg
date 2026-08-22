@@ -2,6 +2,8 @@
 
 ## Data Analyst •  Applied Mathematician •  SQL • Python • Power BI • Tableau
 
+Quantitative analyst with an MSc in Applied Mathematics, BSc in Actuarial Science and fintech credit-risk experience. I use SQL, Python, Excel, Power BI, Tableau and statistical modelling to turn data into actionable business insights.
+
 🎯 Currently seeking fully remote Data Analyst opportunities where I can apply SQL, Python, Excel, Power BI, Tableau and statistical analysis to business problems.
 
 
@@ -84,12 +86,7 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 
 ➡️ [View Project](https://github.com/Yvonneamg/Ecommerce_Sales_Analysis)
 
-🚧 More projects coming soon:
-- Loan Default Prediction
-- Credit Risk Scorecard
-- Portfolio Risk Dashboard
-- Fraud Monitoring Dashboard
-- Football Analytics
+
 
 ---
 
