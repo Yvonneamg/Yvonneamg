@@ -8,7 +8,7 @@ I have experience in credit risk underwriting and enjoy solving real-world probl
 
 🎯 Currently seeking fully remote Data Analyst opportunities where I can apply SQL, Python, Excel, Power BI, Tableau and statistical analysis to business problems.
 
-** Areas of interest:** Business Analytics • Risk & Fraud Analytics • Customer Analytics • Decision Analytics • Sports Analytics
+**Areas of interest:** Business Analytics • Risk & Fraud Analytics • Customer Analytics • Decision Analytics • Sports Analytics
 
 
 ## About Me
