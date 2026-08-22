@@ -2,7 +2,7 @@
 
 ## Data Analyst •  Applied Mathematician •  SQL • Python • Power BI • Tableau
 
-Quantitative analyst with an MSc in Applied Mathematics, BSc in Actuarial Science and fintech credit-risk experience. I use SQL, Python, Excel, Power BI, Tableau and statistical modelling to turn data into actionable business insights.
+Analyst with an MSc in Applied Mathematics, BSc in Actuarial Science and fintech credit-risk experience. I use SQL, Python, Excel, Power BI, Tableau and statistical modelling to turn data into actionable business insights.
 
 🎯 Currently seeking fully remote Data Analyst opportunities where I can apply SQL, Python, Excel, Power BI, Tableau and statistical analysis to business problems.
 
