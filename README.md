@@ -15,6 +15,7 @@ I am particularly interested in solving problems where data, statistics and busi
 
 Outside work, I enjoy football analytics and exploring how data can improve sporting decisions.
 
+
 ## What I Bring
 
 - **Quantitative foundation** — MSc in Applied Mathematics and BSc in Actuarial Science
@@ -23,6 +24,7 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 - **Statistical thinking** — Statistical analysis, regression, hypothesis testing and predictive modelling
 - **Business communication** — Translating analytical findings into clear, actionable business recommendations
 - **Domain knowledge** — Credit risk, fraud analytics, financial services and customer analytics
+- 
 
 
 🎯 Currently seeking fully remote Data Analyst opportunities where I can apply SQL, Python, Excel, Power BI, Tableau and statistical analysis to business problems.
@@ -31,7 +33,7 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 **Areas of interest:** Business Analytics • Risk & Fraud Analytics • Customer Analytics • Decision Analytics • Sports Analytics
 
 
-## 🛠 Analytics
+## 🛠 Analytical Skills
 
 - SQL
 - Python
