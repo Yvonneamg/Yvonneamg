@@ -2,14 +2,6 @@
 
 ## Data Analyst •  Applied Mathematician •  SQL • Python • Power BI • Tableau
 
-Analyst with an MSc in Applied Mathematics, BSc in Actuarial Science and fintech credit-risk experience. I use SQL, Python, Excel, Power BI, Tableau and statistical modelling to turn data into actionable business insights.
-
-🎯 Currently seeking fully remote Data Analyst opportunities where I can apply SQL, Python, Excel, Power BI, Tableau and statistical analysis to business problems.
-
-
-**Areas of interest:** Business Analytics • Risk & Fraud Analytics • Customer Analytics • Decision Analytics • Sports Analytics
-
-
 
 ## About Me
 
@@ -22,6 +14,21 @@ My projects focus on areas such as customer analytics, fraud detection, credit r
 I am particularly interested in solving problems where data, statistics and business decisions intersect.
 
 Outside work, I enjoy football analytics and exploring how data can improve sporting decisions.
+
+## What I Bring
+
+- **Quantitative foundation** — MSc in Applied Mathematics and BSc in Actuarial Science
+- **Business experience** — Experience in fintech credit risk underwriting and data-driven decision-making
+- **Analytics** — SQL, Python, Excel, Power BI and Tableau
+- **Statistical thinking** — Statistical analysis, regression, hypothesis testing and predictive modelling
+- **Business communication** — Translating analytical findings into clear, actionable business recommendations
+- **Domain knowledge** — Credit risk, fraud analytics, financial services and customer analytics
+
+
+🎯 Currently seeking fully remote Data Analyst opportunities where I can apply SQL, Python, Excel, Power BI, Tableau and statistical analysis to business problems.
+
+
+**Areas of interest:** Business Analytics • Risk & Fraud Analytics • Customer Analytics • Decision Analytics • Sports Analytics
 
 
 ## 🛠 Analytics
