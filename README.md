@@ -2,9 +2,13 @@
 
 ## Data Analyst •  Applied Mathematician •  SQL • Python • Power BI • Tableau
 
-I use mathematics, statistics and machine learning to solve business problems in credit risk, fraud detection and decision analytics.
+I am a Data Analyst with a background in Applied Mathematics, Actuarial Science and fintech credit risk.
 
-I have experience in credit risk underwriting and enjoy solving real-world problems using Python, SQL, Tableau, Power BI and statistical modelling.
+My experience combines quantitative analysis with real-world business decision making. I use SQL, Python, Excel, Power BI and Tableau to analyze data, identify patterns, build analytical models and communicate insights that support better decisions.
+
+My projects focus on areas such as customer analytics, fraud detection, credit risk and business intelligence.
+
+I am particularly interested in solving problems where data, statistics and business decisions intersect.
 
 🎯 Currently seeking fully remote Data Analyst opportunities where I can apply SQL, Python, Excel, Power BI, Tableau and statistical analysis to business problems.
 
