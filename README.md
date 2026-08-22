@@ -1,19 +1,14 @@
 # Hi, I'm Yvonne 👋
 
-## Applied Mathematician •  Data Analyst • Credit Risk Analyst 
+## Data Analyst •  Applied Mathematician •  SQL • Python • Power BI • Tableau
 
 I use mathematics, statistics and machine learning to solve business problems in credit risk, fraud detection and decision analytics.
 
 I have experience in credit risk underwriting and enjoy solving real-world problems using Python, SQL, Tableau, Power BI and statistical modelling.
 
-🎯 Currently seeking fully remote, hybrid or in person opportunities in:
+🎯 Currently seeking fully remote Data Analyst opportunities where I can apply SQL, Python, Excel, Power BI, Tableau and statistical analysis to business problems.
 
-- Credit Risk Analytics
-- Data Analytics
-- Sports Analystics
-- Fraud Analytics
-- Business Intelligence
-- Decision Science
+Areas of interest: Business Analytics • Risk & Fraud Analytics • Customer Analytics • Decision Analytics • Sports Analytics
 
 
 ## About Me
