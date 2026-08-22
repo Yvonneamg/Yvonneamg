@@ -8,6 +8,7 @@
 **Areas of interest:** Business Analytics • Risk & Fraud Analytics • Customer Analytics • Decision Analytics • Sports Analytics
 
 
+
 ## About Me
 
 I am a Data Analyst with a background in Applied Mathematics, Actuarial Science and fintech credit risk.
@@ -20,17 +21,31 @@ I am particularly interested in solving problems where data, statistics and busi
 
 Outside work, I enjoy football analytics and exploring how data can improve sporting decisions.
 
-## 🛠 Technical Skills
 
+## 🛠 Analytics
 
-- Python
 - SQL
+- Python
 - Excel
-- Tableau
-- Power BI
-- SQLite
-- Machine Learning
 - Statistics
+- Exploratory Data Analysis
+- Data Cleaning
+- Data Visualization
+
+## 🛠 Business Intelligence
+
+- Power BI
+- Tableau
+- Dashboard Development
+- KPI Analysis
+
+## 🛠 Data & Modelling
+  
+- SQLite
+- Pandas
+- NumPy
+- Scikit-learn
+- Statistical Modelling
 - Predictive Modelling
 
 ---
