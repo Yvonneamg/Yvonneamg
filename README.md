@@ -1,6 +1,6 @@
 # Hi, I'm Yvonne 👋
 
-## Data Analyst •  Applied Mathematician •  SQL • Python • Power BI • Tableau
+## Data Analyst | Applied Mathematician | SQL • Python • Power BI • Tableau
 
 
 ## About Me
@@ -24,7 +24,7 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 - **Statistical thinking** — Statistical analysis, regression, hypothesis testing and predictive modelling
 - **Business communication** — Translating analytical findings into clear, actionable business recommendations
 - **Domain knowledge** — Credit risk, fraud analytics, financial services and customer analytics
-- 
+
 
 
 🎯 Currently seeking fully remote Data Analyst opportunities where I can apply SQL, Python, Excel, Power BI, Tableau and statistical analysis to business problems.
@@ -95,18 +95,8 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 
 ➡️ [View Project](https://github.com/Yvonneamg/Ecommerce_Sales_Analysis)
 
-
-
 ---
 
-## 🌱 Currently Learning
-
-- Credit Risk Modelling
-- Decision Science
-- Advanced Machine Learning
-- MLOps
-
----
 
 ## 📫 Connect With Me
 
