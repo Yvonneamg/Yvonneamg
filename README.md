@@ -63,14 +63,15 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 
 ## 📂 Featured Projects
 
-### 💳 Credit Card Fraud Detection
+### 💳 Credit Card Fraud Analytics & Anomaly Detection
 
 **Business Problem:** Analyze transaction behavior to identify patterns associated with higher fraud risk and determine whether anomaly detection can support investigation prioritization.
+
 **Tools:** SQL • Python • Pandas • SQLite • Scikit-learn
 
 **Skills:** SQL Analytics • Fraud Analytics • Statistical Analysis • Data Visualization • Risk Analytics • Anomaly Detection
 
-**Key Findings:** 3.5× higher observed fraud rate during early-morning hours; 1.9× higher fraud rate among top-1% transaction amounts.
+**Key Findings:** 3.5× higher observed fraud rate during early-morning hours; 1.9× higher fraud rate among top 1% transaction amounts.
 
 ➡️ [View Project](https://github.com/Yvonneamg/Credit_Card_Fraud_Detection)
 
