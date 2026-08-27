@@ -85,7 +85,7 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 
 **Skills:** Customer Analytics • Predictive Analytics • Statistical Analysis • Data Visualization • Risk Segmentation
 
-**Key Result:** Developed a churn prediction model achieving **0.842 ROC-AUC**
+**Key Result:** Identified key factors associated with customer churn and translated the findings into interactive Power BI dashboards to support data-driven retention decisions.
 
 ➡️ [View Project](https://github.com/Yvonneamg/Customer_Churn_Analysis)
 
