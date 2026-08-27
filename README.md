@@ -78,11 +78,14 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 ---
 
 ### 📈 Customer Churn Prediction
-**Business Problem:** Predict customers likely to leave a business.
+
+**Business Problem:** Identify customers at risk of churn and uncover the key factors driving customer attrition.
 
 **Tools:** Python • SQL • Power BI • Logistic Regression
 
-**Skills:** Predictive Analytics • Customer Analytics
+**Skills:** Customer Analytics • Predictive Analytics • Statistical Analysis • Data Visualization • Risk Segmentation
+
+**Key Result:** Developed a churn prediction model achieving **0.842 ROC-AUC**
 
 ➡️ [View Project](https://github.com/Yvonneamg/Customer_Churn_Analysis)
 
