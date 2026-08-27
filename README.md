@@ -91,7 +91,7 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 
 ---
 
-### 📊 E-commerce Sales Dashboard
+### 📊 E-commerce Sales Analysis
 **Business Problem:** Analyze sales performance and customer behaviour.
 
 **Tools:** SQL • Tableau
