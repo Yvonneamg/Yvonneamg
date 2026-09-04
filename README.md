@@ -91,12 +91,32 @@ Outside work, I enjoy football analytics and exploring how data can improve spor
 
 ---
 
-### 📊 E-commerce Sales Analysis
-**Business Problem:** Analyze sales performance and customer behaviour.
+### 📊 E-commerce Sales & Profitability Analysis
 
-**Tools:** SQL • Tableau
+### Business Problem
 
-**Skills:** Business Intelligence • Data Visualization
+Analyze e-commerce sales, profitability, customer behaviour,
+product performance and regional trends to identify revenue
+opportunities and areas of profitability risk.
+
+### Tools
+
+Python • SQL • Tableau • Excel
+
+### Analysis
+
+- Executive KPI analysis
+- Sales and profit trends
+- Customer and segment analysis
+- Product and category performance
+- Regional performance
+- Discount vs profitability analysis
+- High-sales / low-profit product identification
+
+### Key Skills
+
+SQL • Python • Exploratory Data Analysis • Business Intelligence
+• Data Visualization • Profitability Analysis • Business Communication
 
 ➡️ [View Project](https://github.com/Yvonneamg/Ecommerce_Sales_Analysis)
 
