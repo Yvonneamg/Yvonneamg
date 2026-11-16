@@ -5,7 +5,7 @@
 
 
 ## About Me
-I hold an MSc in Applied Mathematics and a BSc in Actuarial Science. My interests lie in applying mathematical, statistical and computational methods to investigate complex real-world problems, particularly in health and disease modelling.
+I hold an MSc in Applied Mathematics and a BSc in Actuarial Science. My interests lie in applying mathematical, statistical and computational methods to investigate complex real world problems, particularly in health and disease modelling.
 
 My research experience includes developing a hybrid physiological agent based model of Type 2 diabetes mellitus, combining ordinary differential equations, population heterogeneity, probabilistic parameters and behavioral inputs to investigate metabolic progression. The work involved Python, JAX, numerical simulation and calibration using publicly available NHANES data.
 
@@ -41,7 +41,7 @@ I enjoy working at the intersection of mathematics, statistics, computation and 
 - SciPy
 - Scikit-learn
 - SQL
-
+  
 ### Data Analytics & Visualisation
 - Exploratory Data Analysis (EDA)
 - Data Cleaning
@@ -49,14 +49,14 @@ I enjoy working at the intersection of mathematics, statistics, computation and 
 - Tableau
 - Excel
 - Data Visualisation
-
 ---
 
 ## 📂 Featured Research & Projects
 
 My repositories showcase work in mathematical modelling, health-related computational research, statistical analysis, scientific computing and applied data analytics.
 
-I am particularly interested in developing mathematical and computational approaches to understanding complex biological systems, disease progression and population level health outcomes.
+I am interested in developing mathematical and computational approaches to understanding complex biological systems, deasease progression and population level health outcomes. 
+
 ---
 
 ## 📂 Featured Projects
