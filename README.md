@@ -153,7 +153,7 @@ Python • SQL • Tableau • Excel
 SQL • Python • Exploratory Data Analysis • Business Intelligence
 • Data Visualization • Profitability Analysis • Business Communication
 
-➡️ [View Project](https://github.com/Yvonneamg/Ecommerce_Sales_Analysis)
+➡️ [View Project Repository](https://github.com/Yvonneamg/Ecommerce_Sales_Analysis)
 
 ---
 
