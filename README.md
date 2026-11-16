@@ -108,7 +108,7 @@ I am interested in developing mathematical and computational approaches to under
 
 **Key Findings:** 3.5× higher observed fraud rate during early-morning hours; 1.9× higher fraud rate among top 1% transaction amounts.
 
-➡️ [View Project](https://github.com/Yvonneamg/Credit_Card_Fraud_Detection)
+➡️ [View Project Repository](https://github.com/Yvonneamg/Credit_Card_Fraud_Detection)
 
 ---
 
@@ -122,7 +122,7 @@ I am interested in developing mathematical and computational approaches to under
 
 **Key Result:** Identified key factors associated with customer churn and translated the findings into interactive Power BI dashboards to support data-driven retention decisions.
 
-➡️ [View Project](https://github.com/Yvonneamg/Customer_Churn_Analysis)
+➡️ [View Project Repository](https://github.com/Yvonneamg/Customer_Churn_Analysis)
 
 ---
 
