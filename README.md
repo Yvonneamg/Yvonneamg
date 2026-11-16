@@ -1,64 +1,62 @@
 # Hi, I'm Yvonne 👋
 
-## Data Analyst | Applied Mathematician | SQL • Python • Power BI • Tableau
+## Applied Mathematician | Statistical & Computational Modelling | Python • JAX • SQL • Data Analytics
+
 
 
 ## About Me
+I hold an MSc in Applied Mathematics and a BSc in Actuarial Science. My interests lie in applying mathematical, statistical and computational methods to investigate complex real-world problems, particularly in health and disease modelling.
 
-I am a Data Analyst with a background in Applied Mathematics, Actuarial Science and fintech credit risk.
+My research experience includes developing a hybrid physiological agent based model of Type 2 diabetes mellitus, combining ordinary differential equations, population heterogeneity, probabilistic parameters and behavioral inputs to investigate metabolic progression. The work involved Python, JAX, numerical simulation and calibration using publicly available NHANES data.
 
-My experience combines quantitative analysis with real-world business decision making. I use SQL, Python, Excel, Power BI and Tableau to analyze data, identify patterns, build analytical models and communicate insights that support better decisions.
+I am particularly interested in:
 
-My projects focus on areas such as customer analytics, fraud detection, credit risk and business intelligence.
+- **Mathematical and statistical modelling of chronic diseases**
+- **Mathematical biology and computational systems biology**
+- **Dynamical systems and ordinary differential equations**
+- **Parameter estimation and identifiability**
+- **Uncertainty quantification and sensitivity analysis**
+- **Statistical learning and biomedical data analysis**
 
-I am particularly interested in solving problems where data, statistics and business decisions intersect.
+Beyond mathematical modelling, I have practical experience in data analytics, including SQL, Python, Excel, Power BI and Tableau. My projects have explored credit risk, fraud detection, customer behaviour and business intelligence.
 
-Outside work, I enjoy football analytics and exploring how data can improve sporting decisions.
-
-
-## What I Bring
-
-- **Quantitative foundation** — MSc in Applied Mathematics and BSc in Actuarial Science
-- **Business experience** — Experience in fintech credit risk underwriting and data-driven decision-making
-- **Analytics** — SQL, Python, Excel, Power BI and Tableau
-- **Statistical thinking** — Statistical analysis, regression, hypothesis testing and predictive modelling
-- **Business communication** — Translating analytical findings into clear, actionable business recommendations
-- **Domain knowledge** — Credit risk, fraud analytics, financial services and customer analytics
+I enjoy working at the intersection of mathematics, statistics, computation and real world applications.
 
 
+## 🛠️ Technical Skills
 
-🎯 Currently seeking fully remote Data Analyst opportunities where I can apply SQL, Python, Excel, Power BI, Tableau and statistical analysis to business problems.
+### Mathematical & Statistical Modelling
+- Applied Mathematics
+- Ordinary Differential Equations (ODEs)
+- Statistical Modelling
+- Probability and Statistical Analysis
+- Parameter Estimation
+- Computational Modelling
 
-
-**Areas of interest:** Business Analytics • Risk & Fraud Analytics • Customer Analytics • Decision Analytics • Sports Analytics
-
-
-## 🛠 Analytical Skills
-
-- SQL
+### Scientific Computing & Programming
 - Python
-- Excel
-- Statistics
-- Exploratory Data Analysis
+- JAX
+- NumPy
+- Pandas
+- SciPy
+- Scikit-learn
+- SQL
+
+### Data Analytics & Visualisation
+- Exploratory Data Analysis (EDA)
 - Data Cleaning
-- Data Visualization
-
-## 🛠 Business Intelligence
-
 - Power BI
 - Tableau
-- Dashboard Development
-- KPI Analysis
+- Excel
+- Data Visualisation
 
-## 🛠 Data & Modelling
-  
-- SQLite
-- Pandas
-- NumPy
-- Scikit-learn
-- Statistical Modelling
-- Predictive Modelling
+---
 
+## 📂 Featured Research & Projects
+
+My repositories showcase work in mathematical modelling, health-related computational research, statistical analysis, scientific computing and applied data analytics.
+
+I am particularly interested in developing mathematical and computational approaches to understanding complex biological systems, disease progression and population level health outcomes.
 ---
 
 ## 📂 Featured Projects
